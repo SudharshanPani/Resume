@@ -1,0 +1,114 @@
+html {
+  margin-bottom: 0;
+}
+.top-container {
+  padding-top: 120px;
+  position: relative;
+  background-color: #e4f9f5;
+}
+body {
+  text-align: center;
+  margin: 0;
+  font-family: "Merriweather", serif;
+  margin-bottom: 0;
+}
+h1 {
+  margin: 0;
+  margin: 50px auto 0 auto;
+  font-family: "Sacramento", cursive;
+  font-size: 5.625rem;
+  color: #66bfbf;
+}
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+  color: #66bfbf;
+  font-weight: bold;
+}
+h3 {
+  font-family: "Montserrat", sans-serif;
+  color: #11999e;
+}
+.cloud1 {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+  width: 170px;
+  height: 58px;
+}
+
+.cloud2 {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+  width: 170px;
+  height: 58px;
+}
+
+.mountain {
+  width: 698px;
+  height: 457px;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  margin-bottom: 200px;
+  text-align: left;
+}
+
+.skill-row p {
+  line-height: 2;
+}
+.skill-row img {
+  text-align: center;
+}
+.code-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.chilli-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+hr {
+  width: 8%;
+  border: 7px dotted #eaf6f6;
+  border-radius: 0;
+  border-style: none none dotted none;
+}
+.contact-me {
+  margin: 100px auto;
+}
+.contact-me h3 {
+  margin: 40px auto;
+}
+.btn {
+  background-color: #66bfbf;
+  text-decoration: none;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bolder;
+  color: white;
+  padding: 0.6rem 1rem;
+  border-radius: 10px;
+  margin: 40px auto;
+  display: inline-block;
+}
+.bottom-container {
+  background-color: #66bfbf;
+  margin-bottom: 0;
+}
+.bottom-container a {
+  text-decoration: none;
+  color: #11999e;
+  margin: 50px 20px 0 20px;
+  display: inline-block;
+  font-family: "Montserrat", sans-serif;
+}
+
+.bottom-container p {
+  color: #eaf6f6;
+  padding: 50px;
+}
